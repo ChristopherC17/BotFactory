@@ -16,7 +16,7 @@ namespace BotFactory.Interface
 
         int StorageCapacity { get;}
 
-        List<IFactoryQueueElement> Queue { get;  }
+        Queue<IFactoryQueueElement> Queue { get;  }
 
         List<ITestingUnit> Storage { get;  }
 

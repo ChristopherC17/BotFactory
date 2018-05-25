@@ -44,15 +44,15 @@ namespace BotFactory.Factories
         /// </summary>
         public TimeSpan QueueTime { get; set; }
 
-        private List<IFactoryQueueElement> _queue;
+        private Queue<IFactoryQueueElement> _queue;
 
         /// <summary>
         /// La liste des robots dans la file d'attente
         /// </summary>
-        public List<IFactoryQueueElement> Queue {
+        public Queue<IFactoryQueueElement> Queue {
             get
             {
-                return _queue.ToList();
+                return _queue;
             }
         }
 
@@ -79,7 +79,7 @@ namespace BotFactory.Factories
             QueueCapacity = queueCapacity;
             StorageCapacity = storageCapacity;
             _storage = new List<ITestingUnit>();
-            _queue = new List<IFactoryQueueElement>();
+            _queue = new Queue<IFactoryQueueElement>();
         }
 
         /// <summary>
@@ -97,22 +97,26 @@ namespace BotFactory.Factories
 
                 // On ajoute un élément dans la file d'attente
                 FactoryQueueElement queueElement = new FactoryQueueElement(modeleName, unitName, parkingPos, workingPos);
-                _queue.Add(queueElement);
+                _queue.Enqueue(queueElement);
 
-                // On récupére par reflexion les informations sur un robot
-                ITestingUnit newUnit = Activator.CreateInstance(queueElement.Model, new object[] { }) as ITestingUnit;
-                newUnit.Model = unitName;
-                newUnit.ParkingPos = parkingPos;
-                newUnit.WorkingPos = workingPos;
+
 
                 //On ajoute du temps dans la file d'attente
-                QueueTime = QueueTime.Add(new TimeSpan(0,0,Convert.ToInt32(newUnit.BuildTime)));
+                ITestingUnit recupTime = Activator.CreateInstance(queueElement.Model, new object[] { }) as ITestingUnit;
+                QueueTime = QueueTime.Add(new TimeSpan(0,0,Convert.ToInt32(recupTime.BuildTime)));
 
                 //Création d'un thread permettant de construire un robot (un seul robot est créé à la fois)
                 Thread threadBuildUnit = new Thread(() =>
                 {
                     lock (_lockBuildingUnit)
                     {
+
+                        FactoryQueueElement nextQueueElement = (FactoryQueueElement)_queue.Peek();
+                        // On récupére par reflexion les informations sur un robot
+                        ITestingUnit newUnit = Activator.CreateInstance(nextQueueElement.Model, new object[] { }) as ITestingUnit;
+                        newUnit.Model = nextQueueElement.Name;
+                        newUnit.ParkingPos = nextQueueElement.ParkingPos;
+                        newUnit.WorkingPos = nextQueueElement.WorkingPos;
                         BuildingUnit(newUnit);
                     }
                 });
@@ -144,7 +148,7 @@ namespace BotFactory.Factories
             OnStatusChangedFactory(new StatusChangedEventArgs(string.Format("Start build unit {0} : {1}", newUnit.Model, newUnit.Name)));
             Thread.Sleep(Convert.ToInt32(newUnit.BuildTime) * 1000);
             _storage.Add(newUnit);
-            _queue.RemoveAt(_queue.Count - 1);
+            _queue.Dequeue();
             QueueTime = QueueTime.Add(new TimeSpan(0, 0, Convert.ToInt32(-newUnit.BuildTime)));
             OnStatusChangedFactory(new StatusChangedEventArgs(string.Format("End build unit {0} : {1}", newUnit.Model, newUnit.Name)));
         }
