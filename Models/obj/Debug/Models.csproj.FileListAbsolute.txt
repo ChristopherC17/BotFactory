@@ -1,0 +1,23 @@
+C:\Projects\BotFactory\BotFactory\Models\bin\Debug\Models.dll
+C:\Projects\BotFactory\BotFactory\Models\bin\Debug\Models.pdb
+C:\Projects\BotFactory\BotFactory\Models\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\BotFactory\Models\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\BotFactory\Models\obj\Debug\Models.dll
+C:\Projects\BotFactory\BotFactory\Models\obj\Debug\Models.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\bin\Debug\Models.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\bin\Debug\Models.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\bin\Debug\BocFactory.Common.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\bin\Debug\BocFactory.Common.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\obj\Debug\Models.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Models\obj\Debug\Models.pdb
+C:\Projects\BotFactory\Models\bin\Debug\Models.dll
+C:\Projects\BotFactory\Models\bin\Debug\Models.pdb
+C:\Projects\BotFactory\Models\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\Models\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\Models\obj\Debug\Models.dll
+C:\Projects\BotFactory\Models\obj\Debug\Models.pdb

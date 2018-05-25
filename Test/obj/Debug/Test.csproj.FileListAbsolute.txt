@@ -1,0 +1,22 @@
+C:\Projects\BotFactory\BotFactory\Test\bin\Debug\Test.exe.config
+C:\Projects\BotFactory\BotFactory\Test\bin\Debug\Test.exe
+C:\Projects\BotFactory\BotFactory\Test\bin\Debug\Test.pdb
+C:\Projects\BotFactory\BotFactory\Test\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\BotFactory\Test\bin\Debug\Models.dll
+C:\Projects\BotFactory\BotFactory\Test\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\BotFactory\Test\bin\Debug\Models.pdb
+C:\Projects\BotFactory\BotFactory\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\BotFactory\Test\obj\Debug\Test.exe
+C:\Projects\BotFactory\BotFactory\Test\obj\Debug\Test.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\obj\Debug\Test.exe
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\obj\Debug\Test.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\bin\Debug\Test.exe.config
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\bin\Debug\Test.exe
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\bin\Debug\Test.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\bin\Debug\BocFactory.Common.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\bin\Debug\Models.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\bin\Debug\BocFactory.Common.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\bin\Debug\Models.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Test\obj\Debug\Test.csproj.CopyComplete

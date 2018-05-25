@@ -1,0 +1,35 @@
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\ModelsTest.dll
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\ModelsTest.pdb
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\Models.dll
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\Models.pdb
+C:\Projects\BotFactory\BotFactory\ModelsTest\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Projects\BotFactory\BotFactory\ModelsTest\obj\Debug\ModelsTest.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\BotFactory\ModelsTest\obj\Debug\ModelsTest.dll
+C:\Projects\BotFactory\BotFactory\ModelsTest\obj\Debug\ModelsTest.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\obj\Debug\ModelsTest.csprojResolveAssemblyReference.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\obj\Debug\ModelsTest.csproj.CoreCompileInputs.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\obj\Debug\ModelsTest.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\obj\Debug\ModelsTest.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\ModelsTest.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\ModelsTest.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\BocFactory.Common.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\Models.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\BocFactory.Common.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\Models.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\ModelsTest\obj\Debug\ModelsTest.csproj.CopyComplete
+C:\Projects\BotFactory\ModelsTest\bin\Debug\ModelsTest.dll
+C:\Projects\BotFactory\ModelsTest\bin\Debug\ModelsTest.pdb
+C:\Projects\BotFactory\ModelsTest\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\ModelsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\BotFactory\ModelsTest\bin\Debug\Models.dll
+C:\Projects\BotFactory\ModelsTest\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\ModelsTest\bin\Debug\Models.pdb
+C:\Projects\BotFactory\ModelsTest\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Projects\BotFactory\ModelsTest\obj\Debug\ModelsTest.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\ModelsTest\obj\Debug\ModelsTest.dll
+C:\Projects\BotFactory\ModelsTest\obj\Debug\ModelsTest.pdb

@@ -1,0 +1,29 @@
+C:\Projects\BotFactory\BotFactory\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\BotFactory\Factories\bin\Debug\Factories.dll
+C:\Projects\BotFactory\BotFactory\Factories\bin\Debug\Factories.pdb
+C:\Projects\BotFactory\BotFactory\Factories\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\BotFactory\Factories\bin\Debug\Models.dll
+C:\Projects\BotFactory\BotFactory\Factories\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\BotFactory\Factories\bin\Debug\Models.pdb
+C:\Projects\BotFactory\BotFactory\Factories\obj\Debug\Factories.dll
+C:\Projects\BotFactory\BotFactory\Factories\obj\Debug\Factories.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\obj\Debug\Factories.csproj.CoreCompileInputs.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\bin\Debug\Factories.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\bin\Debug\Factories.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\bin\Debug\BocFactory.Common.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\bin\Debug\Models.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\bin\Debug\BocFactory.Common.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\bin\Debug\Models.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\obj\Debug\Factories.csproj.CopyComplete
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\obj\Debug\Factories.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Factories\obj\Debug\Factories.pdb
+C:\Projects\BotFactory\Factories\bin\Debug\Factories.dll
+C:\Projects\BotFactory\Factories\bin\Debug\Factories.pdb
+C:\Projects\BotFactory\Factories\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\Factories\bin\Debug\Models.dll
+C:\Projects\BotFactory\Factories\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\Factories\bin\Debug\Models.pdb
+C:\Projects\BotFactory\Factories\obj\Debug\Factories.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\Factories\obj\Debug\Factories.dll
+C:\Projects\BotFactory\Factories\obj\Debug\Factories.pdb

@@ -1,0 +1,14 @@
+C:\Projects\BotFactory\BotFactory\Common\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\BotFactory\Common\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\BotFactory\Common\obj\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\BotFactory\Common\obj\Debug\BocFactory.Common.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Common\bin\Debug\BocFactory.Common.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Common\bin\Debug\BocFactory.Common.pdb
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Common\obj\Debug\BocFactory.Common.dll
+C:\Users\da-si\Downloads\Nouveau dossier\moi\BotFactory\Common\obj\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\Common\bin\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\Common\bin\Debug\BocFactory.Common.pdb
+C:\Projects\BotFactory\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Projects\BotFactory\Common\obj\Debug\BocFactory.Common.dll
+C:\Projects\BotFactory\Common\obj\Debug\BocFactory.Common.pdb
